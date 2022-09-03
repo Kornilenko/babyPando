@@ -539,7 +539,7 @@ button {
    margin: 69px;
 }
 }
-ul.menu-mobile>li:first-child>a::after {
+ul.menu>li:first-child>a::after {
     content: "";
     position: absolute;
     width: 9px;
