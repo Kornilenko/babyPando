@@ -502,7 +502,7 @@ ul.menu-mobile>li:first-child>a::after {
     border-radius: 50%;
     left: 216px;
     top: 27px;
-
+    
 }
 @media(max-width: 812px) {
 .hero-movie {
@@ -516,7 +516,6 @@ ul.menu-mobile>li:first-child>a::after {
 .hero-movie>p:nth-child(2) {
    font-size: 1rem;
    text-align: center;
-
 }
 button {
    font-size: 1rem;
@@ -530,28 +529,18 @@ button {
 }
 .login .form-container {
    width: auto;
+
    margin: auto;
 }
 
 .login {
    height: auto;
-
    margin: 69px;
 }
-}
-ul.menu>li:first-child>a::after {
-    content: "";
-    position: absolute;
-    width: 9px;
-    height: 9px;
-    background-color: #FF3C00;
-    border-radius: 50%;
-    left: 63px;
-    top: 16px;
 }
 @media(max-width: 1723px) {
 .default-container {
    padding: 0 3% 0 3%;
-   
+
 }
 }
