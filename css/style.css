@@ -546,12 +546,12 @@ ul.menu>li:first-child>a::after {
     height: 9px;
     background-color: #FF3C00;
     border-radius: 50%;
-    left: 443px;
-    top: 27px;
+    left: 63px;
+    top: 16px;
 }
 @media(max-width: 1723px) {
 .default-container {
    padding: 0 3% 0 3%;
-
+   
 }
 }
