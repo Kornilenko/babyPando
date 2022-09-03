@@ -340,7 +340,7 @@ nav.nav-mobile {
 }
 
 
-@media(max-width: 376px) {
+@media(max-width: 375px) {
 .hero-movie {
    justify-content: center;
    align-items: center;
